@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vistas</string>
+    <string name="idioma_text">Bienvenido</string>
+    <string name="idioma_boton">Entrar</string>
+</resources>
